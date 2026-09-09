@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repository": "oup030416/dmelopers-3d-block-pet-test",
+  "repositoryId": 1362494486,
+  "product": "com.dmeloper.blockpet3d",
+  "channel": "stable",
+  "platform": "windows-x86_64",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "asset": {
+    "name": "dmelopers-3d-block-pet_1.0.0_x64-setup.exe",
+    "size": 4245242,
+    "sha256": "76e55801cabbb5b9cf0cebaf1c148ee24662d40afa124e2bd9ac396b90138f48",
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3RUV0NTd05xTm9MeVVUNFN6RzRGZXBPN1l5RVNDNkJPZE8va3JQblF1T2xDU2pvNDNaK2JGczF0VDJDWS96cTkySFdxS0hoWG5la0FGQ2gwRWJSWTlBTEFsSWFOQXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ5NDg5CWZpbGU6ZG1lbG9wZXJzLTNkLWJsb2NrLXBldF8xLjAuMF94NjQtc2V0dXAuZXhlCkUxd0xmUmY5d3VmVmxOckMybFhUaGhtVlE0TUYxL0IxNG5RR2l6blhDTGFQWEY2VWcwdFQxV200ZTVSV2p0anhMWVRRNVp0M3Q1cUk4Szl1cU1vZ0FRPT0K",
+    "installedFiles": {
+      "assets/models/dmeloper/default.png": "c79c163fcde7edd727499d449421dae7a1f5e5d1004152512c84b68656099b88",
+      "assets/models/dmeloper/dmeloper.glb": "4acc117417107cc81577802aa59ac3d62650c5f3817b9202de36e0c69b292919",
+      "assets/tray.png": "77ad68d8bd78bb124ab5105807ae4b7ac26b1f25ec82687773caa0745462ab93",
+      "dmelopers-3d-block-pet.exe": "1cd81d893ac93e2af676db5f67dfdf6fe88ac22b0980d5e25ac26af618c997c9"
+    }
+  },
+  "minUpdaterSchema": 1,
+  "dataSchema": {
+    "min": 1,
+    "max": 1
+  },
+  "withdrawn": false,
+  "publishedAt": "2026-09-09T10:24:36Z"
+}
