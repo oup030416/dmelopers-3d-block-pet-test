@@ -161,8 +161,9 @@ export async function allReleases(request = api) {
   return releases
 }
 
-export async function publish(output, request = api, profile = 'official') {
+export async function publish(output, request, profile = 'official') {
   const { repository } = source(profile)
+  request ??= (path, method, body) => api(path, method, body, profile)
   assert.deepEqual(Object.keys(output).sort(), allowed, 'unexpected badge output files')
   assert(process.env.GITHUB_REPOSITORY === repository && process.env.GITHUB_REF === 'refs/heads/main')
   assert(process.env.GH_TOKEN, 'GitHub App installation token required')
