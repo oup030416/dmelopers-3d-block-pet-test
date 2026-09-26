@@ -4,23 +4,23 @@
   "repositoryId": 1362494486,
   "visibility": "public",
   "release": "v1.0.2",
-  "downloads": 6,
+  "downloads": 2,
   "stars": 0,
   "license": "MIT",
-  "verifiedAt": "2026-09-26T14:26:27Z",
+  "verifiedAt": "2026-09-26T14:32:44Z",
   "latest": {
     "version": "1.0.2",
     "tag": "v1.0.2",
     "platform": "windows-x86_64",
     "installer": {
       "name": "dmelopers-3d-block-pet_1.0.2_x64-setup.exe",
-      "size": 4201205,
-      "sha256": "851ce0952116542a5bffc5f90d1f23127552b3ebdaf4fda10f5727145078bbde"
+      "size": 4211551,
+      "sha256": "8205c560b1b696188ed331a28501d24cf75d76b292836561105ee2f6857e9022"
     },
     "signature": {
       "name": "dmelopers-3d-block-pet_1.0.2_x64-setup.exe.sig",
       "size": 436,
-      "sha256": "92fe8ab2cbaa78c8b70b924fe5be01a5e3aca0a0679447e15f421b65f79b26cb"
+      "sha256": "ccfcbf1d2fd0c136a26d6211936362a6da0177fdb0d7f5d40bcb531fac42256b"
     },
     "publishedAt": "2026-09-14T03:26:16Z"
   }
